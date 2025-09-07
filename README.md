@@ -7,14 +7,14 @@ I'm Sienna Rader-Gowda!
 **Currently learning**\
 C programming & programming in UNIX/LINUX systems ©️\
 Professional Web Development 🔧\
-Unity and C#\
+Unity and C#
 
 **Ask me about**\
 My favorite coding language :) 
 
 **How to reach me**\
 Email! Sienna.Gowda@Gmail.Com\
-Phone! 443-535-1525\
+Phone! 443-535-1525
 
 **Fun fact**\
 I've written & published a novel! 📘
