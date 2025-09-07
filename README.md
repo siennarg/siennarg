@@ -4,19 +4,19 @@ I'm Sienna Rader-Gowda!
 - Currently: BS student studying Computer Science at the University of Maryland, College Park 🏦
 - Previously: Engineering Intern at Johns Hopkins Applied Physics Laboratory 👔 
 
-**Currently learning**
-C programming & programming in UNIX/LINUX systems ©️
-Professional Web Development 🔧
-Unity and C# 
+**Currently learning**\
+C programming & programming in UNIX/LINUX systems ©️\
+Professional Web Development 🔧\
+Unity and C#\
 
-**Ask me about**
+**Ask me about**\
 My favorite coding language :) 
 
-**How to reach me**
-Email! Sienna.Gowda@Gmail.Com
-Phone! 443-535-1525
+**How to reach me**\
+Email! Sienna.Gowda@Gmail.Com\
+Phone! 443-535-1525\
 
-**Fun fact**
+**Fun fact**\
 I've written & published a novel! 📘
 
 
