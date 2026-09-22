@@ -1,13 +1,13 @@
 ## Hi👋 
 I'm Sienna Rader-Gowda!
 
-- Currently: BS student studying Computer Science at the University of Maryland, College Park 🏦
-- Previously: Engineering Intern at Johns Hopkins Applied Physics Laboratory 👔 
+- Currently: BS student studying Computer Science and Mathematics at the University of Maryland, College Park 🏦
+- Previously: Machine Learning Intern at Chesapeake Conservancy Nonprofit 👔 
 
 **Currently learning**\
-C programming & programming in UNIX/LINUX systems ©️\
+Computer Networks and Security 🖥️\
 Professional Web Development 🔧\
-Unity and C#
+SQL and Matplotlib
 
 **Ask me about**\
 My favorite coding language :) 
