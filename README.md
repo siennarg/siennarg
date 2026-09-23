@@ -1,11 +1,11 @@
 ## Hi, I'm Sienna
 
-**I am interested in writing machine learning and data analytics**
+**I am interested in machine learning, data analytics, and large-scale mapping!**
 
 <img src="/assets/profile_image" width="300">
 
 **Currently**: BS student studying Computer Science and Mathematics at the University of Maryland, College Park 🏦\
-**Previously**: Machine Learning Intern at Chesapeake Conservancy Nonprofit 👔 \
+**Previously**: Machine Learning Intern at Chesapeake Conservancy Nonprofit 👔 
 
 **Currently learning**\
 Computer Networks and Security 🖥️\
@@ -19,7 +19,7 @@ Some projects I've worked on recently include
 - stay tuned to hear about my Technica project! (https://gotechnica.org/)
 
 **Ask me about**\
-My favorite coding language :) 
+Ideas for my Technica Project! 
 
 Skills:
 `Python`, `R`, `Web Development`, `C`
