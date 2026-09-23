@@ -1,5 +1,5 @@
-## Hi, I'm Sienna
-
+## Hi, I'm Sienna 
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](/assets/profile_image.png)
 **I am interested in writing machine learning and data analytics**
 
 - Currently: BS student studying Computer Science and Mathematics at the University of Maryland, College Park 🏦
