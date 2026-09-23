@@ -2,9 +2,8 @@
 
 **I am interested in writing machine learning and data analytics**
 
-<p align="center">
-  <img src="/assets/profile_image" width="300">
-</p>
+<img src="/assets/profile_image" width="300">
+
 - Currently: BS student studying Computer Science and Mathematics at the University of Maryland, College Park 🏦
 - Previously: Machine Learning Intern at Chesapeake Conservancy Nonprofit 👔 
 
