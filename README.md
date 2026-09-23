@@ -21,12 +21,12 @@ Some projects I've worked on recently include
 **Ask me about**\
 Ideas for my Technica Project! 
 
-Skills:
+**Skills:**
 `Python`, `R`, `Web Development`, `C`
 
 **How to reach me**\
-Email! Sienna.Gowda@Gmail.Com\
-Phone! 443-535-1525
+Email: Sienna.Gowda@Gmail.Com\
+Phone: 443-535-1525
 
 **Fun fact**\
 I've written & published a novel! 📘
