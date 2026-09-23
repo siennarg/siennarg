@@ -1,5 +1,6 @@
-## Hi👋 
-I'm Sienna Rader-Gowda!
+## Hi, I'm Sienna
+
+**I am interested in writing machine learning and data analytics**
 
 - Currently: BS student studying Computer Science and Mathematics at the University of Maryland, College Park 🏦
 - Previously: Machine Learning Intern at Chesapeake Conservancy Nonprofit 👔 
@@ -19,8 +20,14 @@ Phone! 443-535-1525
 **Fun fact**\
 I've written & published a novel! 📘
 
+Some projects I've worked on recently include 
+- on-going animal migration research alongside Dr. Bill Fagan, including Chinnok Salmon and Grey Wolves
+- mapping solar panels across Chesapeake Bay watershed using computer vision
+- predicting saltwater intrusion and related economic loss on farms in Eastern Shore MD
+- stay tuned to hear about my Technica project! (https://gotechnica.org/)
 
-
+Skills:
+Python, R, Web Development, C
 <!--
 **siennarg/siennarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
