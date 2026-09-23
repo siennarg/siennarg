@@ -4,8 +4,8 @@
 
 <img src="/assets/profile_image" width="300">
 
-- Currently: BS student studying Computer Science and Mathematics at the University of Maryland, College Park 🏦
-- Previously: Machine Learning Intern at Chesapeake Conservancy Nonprofit 👔 
+**Currently**: BS student studying Computer Science and Mathematics at the University of Maryland, College Park 🏦
+**Previously**: Machine Learning Intern at Chesapeake Conservancy Nonprofit 👔 
 
 **Currently learning**\
 Computer Networks and Security 🖥️\
