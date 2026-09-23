@@ -1,5 +1,5 @@
-## Hi, I'm Sienna 
-![](/assets/profile_image)
+## Hi, I'm Sienna ![](/assets/profile_image)
+
 **I am interested in writing machine learning and data analytics**
 
 - Currently: BS student studying Computer Science and Mathematics at the University of Maryland, College Park 🏦
