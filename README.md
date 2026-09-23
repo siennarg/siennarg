@@ -27,7 +27,7 @@ Some projects I've worked on recently include
 - stay tuned to hear about my Technica project! (https://gotechnica.org/)
 
 Skills:
-Python, R, Web Development, C
+`Python`, `R`, `Web Development`, `C`
 <!--
 **siennarg/siennarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
